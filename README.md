@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HindEK
 - 👀 I’m interested in Software more than Humans
-- 🌱 I’m currently learning containerization and Devops
-- 💞️ I’m looking to collaborate on all pro-code, low-cod or no-code projects
+- 🌱 I’m currently learning containerization and DevOps
+- 💞️ I’m looking to collaborate on all pro-code, low-code or no-code projects
 - 📫 How to reach me @ hindelkamouchi@gmail.com
 
 <!---
